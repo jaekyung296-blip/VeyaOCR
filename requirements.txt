@@ -1,0 +1,8 @@
+aiogram==2.25.1
+pytesseract
+opencv-python-headless
+Pillow
+numpy
+langdetect
+fastapi
+uvicorn
